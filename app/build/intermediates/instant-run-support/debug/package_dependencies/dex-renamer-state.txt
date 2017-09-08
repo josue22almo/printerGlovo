@@ -1,0 +1,7 @@
+#Wed Sep 06 19:29:55 CEST 2017
+base.0=/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_04e655910a80e06149732047e7c43c52869224d0
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.4_249b41b7d5818ec4b7da314baf43f1459edf29b7/classes.dex
+base.1=/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.4_249b41b7d5818ec4b7da314baf43f1459edf29b7
+file.0=/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_04e655910a80e06149732047e7c43c52869224d0/classes.dex

@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Fri Sep 08 16:35:38 CEST 2017
+2.base=/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/res/resources-debug.ap_
+5.file=/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/res/resources-debug.ap_/res/menu-v11/main.xml
+5.set=ANDROID_RESOURCE
+3.base=/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/assets/debug
+6.file=/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+2.set=ANDROID_RESOURCE
+4.base=/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/res/resources-debug.ap_
+7.file=/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c5fd603aeec81a974357580c3b881c8703c39b28/classes.dex
+7.set=DEX
+count=10
+0.file=/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_869b9858b7d69af7e132713a9761dac9c5c6a409/classes.dex
+5.base=/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/res/resources-debug.ap_
+8.file=/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/logo.png
+4.set=ANDROID_RESOURCE
+6.base=/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/res/resources-debug.ap_
+1.file=/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+9.set=ANDROID_RESOURCE
+9.file=/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+1.set=ANDROID_RESOURCE
+7.base=/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c5fd603aeec81a974357580c3b881c8703c39b28
+2.file=/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/res/resources-debug.ap_/res/menu/main.xml
+6.set=ANDROID_RESOURCE
+0.base=/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_869b9858b7d69af7e132713a9761dac9c5c6a409
+8.base=/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/res/resources-debug.ap_
+3.file=/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/assets/debug/test.html
+3.set=ASSET
+1.base=/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/res/resources-debug.ap_
+9.base=/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/res/resources-debug.ap_
+4.file=/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+8.set=ANDROID_RESOURCE
+0.set=DEX

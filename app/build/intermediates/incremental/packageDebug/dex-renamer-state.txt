@@ -1,0 +1,7 @@
+#Fri Sep 08 16:35:38 CEST 2017
+base.0=/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c5fd603aeec81a974357580c3b881c8703c39b28
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_869b9858b7d69af7e132713a9761dac9c5c6a409/classes.dex
+base.1=/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_869b9858b7d69af7e132713a9761dac9c5c6a409
+file.0=/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c5fd603aeec81a974357580c3b881c8703c39b28/classes.dex

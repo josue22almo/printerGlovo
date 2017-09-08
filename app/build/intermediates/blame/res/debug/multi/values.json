@@ -1,0 +1,112 @@
+[
+    {
+        "outputFile": "/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 54,
+                    "endOffset": 272
+                },
+                "from": {
+                    "file": "/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 277,
+                    "endColumn": 52,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 330,
+                    "endColumn": 55,
+                    "endOffset": 381
+                },
+                "from": {
+                    "file": "/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endColumn": 55,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 386,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 464
+                },
+                "from": {
+                    "file": "/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 469,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 536
+                },
+                "from": {
+                    "file": "/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/src/main/res/values/styles.xml"
+                }
+            }
+        ]
+    }
+]

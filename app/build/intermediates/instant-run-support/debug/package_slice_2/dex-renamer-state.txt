@@ -1,0 +1,4 @@
+#Fri Sep 08 16:42:07 CEST 2017
+base.0=/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/home/josue/Downloads/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex
